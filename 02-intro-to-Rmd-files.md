@@ -133,6 +133,20 @@ In an Rmd file, a hash `#` that is inside a code chunk will be treated
 as an R comment. A hash outside a code chunk, will be treated as
 markdown syntax, making its associated text a given type of heading.
 
+### Some Markdown syntax resources
+
+In RStudio’s menu bar select the `Help` tab. Then click on the option
+`Markdown Quick Reference`.
+
+Work through the markdown tutorial:
+[www.markdown-tutorial.com](http://www.markdown-tutorial.com)
+
+Find some time to go through this additional markdown tutorial
+[www.markdowntutorial.com/](http://www.markdowntutorial.com/)
+
+RStudio has a very comprehensive R Markdown tutorial: [Rstudio markdown
+tutorial](http://rmarkdown.rstudio.com/)
+
 ## Code chunks
 
 There are dozens of options available to control the executation of the
